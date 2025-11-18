@@ -8,7 +8,7 @@ Incluye todos los stats, mejoras, estructuras y unidades originales, con ajustes
 ## 📥 **Descarga**
 
 ➡️ **Última versión:**
-**[Download Latest Release](https://github.com/TU_USUARIO/TU_REPO/releases)**
+**[Download Latest Release](https://github.com/ItsMante/Warcraft-I-Melee-Total-Conversion-for-Warcraft-III/releases)**
 
 ---
 
@@ -57,9 +57,9 @@ Diseñados para complementar el combate sin romper la esencia clásica.
 Cada mapa es independiente y está basado en un escenario melee clásico de Warcraft 3:
 
 * Ej: **Feralas (8 jugadores)**
-* Ej: **Terenas Stand**
-* Ej: **Twisted Meadows**
-* Ej: **Lost Temple**
+* Ej: **Terenas Stand** (Próximamente)
+* Ej: **Twisted Meadows** (Próximamente)
+* Ej: **Lost Temple** (Próximamente)
 * …y otros más
 
 Todos con:
@@ -99,12 +99,9 @@ Todos con:
 
 ## 🖼️ **Galería**
 
-Coloca esto cuando tengas imágenes:
-
 ```
-![Human Town](images/human_town.png)
-![Orc Advance](images/orc_attack.png)
-![Tech Tree](images/techtree.png)
+![Base Humana](images/HumanBase.png)
+![Base Orco](images/OrcBase.png)
 ```
 
 ---
@@ -120,9 +117,9 @@ Coloca esto cuando tengas imágenes:
 
 ## 📣 **Créditos**
 
-* Autor principal: **TU NOMBRE**
-* Modelos y texturas: autores de HiveWorkshop (mencionar si aplica)
-* Herramientas usadas: Retera Studio, MDLvis, Magos, Map Optimizer
+* Autor principal: **SoyMante**
+* Modelos y texturas: https://www.hiveworkshop.com/members/loktar.115150/ | https://www.hiveworkshop.com/members/stan0033.192946/ | https://www.hiveworkshop.com/members/jetfanginferno.112379/ | Blizzard Entertaiment
+* Herramientas usadas: Retera Studio, Reforgerator.
 
 ---
 
